@@ -1,0 +1,11 @@
+D:\MyApp\WebApp\CustomExceptions\bin\Debug\net8.0\CustomExceptions.deps.json
+D:\MyApp\WebApp\CustomExceptions\bin\Debug\net8.0\CustomExceptions.dll
+D:\MyApp\WebApp\CustomExceptions\bin\Debug\net8.0\CustomExceptions.pdb
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\CustomExceptions.AssemblyInfoInputs.cache
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\CustomExceptions.AssemblyInfo.cs
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\CustomExceptions.csproj.CoreCompileInputs.cache
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\CustomExceptions.dll
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\refint\CustomExceptions.dll
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\CustomExceptions.pdb
+D:\MyApp\WebApp\CustomExceptions\obj\Debug\net8.0\ref\CustomExceptions.dll

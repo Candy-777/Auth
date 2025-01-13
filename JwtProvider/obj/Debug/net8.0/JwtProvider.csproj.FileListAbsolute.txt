@@ -1,0 +1,15 @@
+D:\MyApp\WebApp\JwtProvider\bin\Debug\net8.0\JwtProvider.deps.json
+D:\MyApp\WebApp\JwtProvider\bin\Debug\net8.0\JwtProvider.dll
+D:\MyApp\WebApp\JwtProvider\bin\Debug\net8.0\JwtProvider.pdb
+D:\MyApp\WebApp\JwtProvider\bin\Debug\net8.0\Domain.dll
+D:\MyApp\WebApp\JwtProvider\bin\Debug\net8.0\Domain.pdb
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.csproj.AssemblyReference.cache
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.AssemblyInfoInputs.cache
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.AssemblyInfo.cs
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.csproj.CoreCompileInputs.cache
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvi.66D27B06.Up2Date
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.dll
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\refint\JwtProvider.dll
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\JwtProvider.pdb
+D:\MyApp\WebApp\JwtProvider\obj\Debug\net8.0\ref\JwtProvider.dll

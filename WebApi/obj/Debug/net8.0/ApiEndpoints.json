@@ -1,0 +1,122 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.AdminController",
+    "Method": "DeleteUserByName",
+    "RelativePath": "api/Admin/DeleteUserByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AdminController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Admin/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AdminController",
+    "Method": "GetUserByName",
+    "RelativePath": "api/Admin/GetUserByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "GetMe",
+    "RelativePath": "api/Auth/GetMe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequestDto",
+        "Type": "AuthService.DTOs.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "RegNewUser",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerReqiestDto",
+        "Type": "AuthService.DTOs.RegisterReqiestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.MyEntityController",
+    "Method": "AddEntity",
+    "RelativePath": "api/MyEntity/AddEntities",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MyEntitiesService.DTOs.CreateEntityDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.MyEntityController",
+    "Method": "DeleteEntities",
+    "RelativePath": "api/MyEntity/DeleteEntities",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.MyEntityController",
+    "Method": "GetAllEntities",
+    "RelativePath": "api/MyEntity/GetEntities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

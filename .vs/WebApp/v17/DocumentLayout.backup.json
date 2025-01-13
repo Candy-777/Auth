@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyApp\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|d:\\myapp\\webapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|d:\\myapp\\webapp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|d:\\myapp\\webapp\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|d:\\myapp\\webapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|d:\\myapp\\webapp\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF959B68-79C6-4288-93ED-9F100644B674}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3E28F3-967E-46F0-9B93-ED8CEB5B8D5A}|MyEntitiesService\\MyEntitiesService.csproj|d:\\myapp\\webapp\\myentitiesservice\\myentitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3E28F3-967E-46F0-9B93-ED8CEB5B8D5A}|MyEntitiesService\\MyEntitiesService.csproj|solutionrelative:myentitiesservice\\myentitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91D5512-E8C4-41D7-9D9A-97E36D2D8DC4}|Domain\\Domain.csproj|d:\\myapp\\webapp\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91D5512-E8C4-41D7-9D9A-97E36D2D8DC4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91D5512-E8C4-41D7-9D9A-97E36D2D8DC4}|Domain\\Domain.csproj|d:\\myapp\\webapp\\domain\\entities\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91D5512-E8C4-41D7-9D9A-97E36D2D8DC4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BFA705-5BBA-40C5-91F1-1CB627703405}|AdminService\\AdminService.csproj|d:\\myapp\\webapp\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BFA705-5BBA-40C5-91F1-1CB627703405}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BFA705-5BBA-40C5-91F1-1CB627703405}|AdminService\\AdminService.csproj|d:\\myapp\\webapp\\adminservice\\adminservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8BFA705-5BBA-40C5-91F1-1CB627703405}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\adminservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|d:\\myapp\\webapp\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|d:\\myapp\\webapp\\dal\\configurations\\myentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\myentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|d:\\myapp\\webapp\\dal\\migrations\\20250113221426_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3011491-3C0C-4151-BF48-15AFC374FE94}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250113221426_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:31:31.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\MyApp\\WebApp\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T22:31:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApi",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\MyApp\\WebApp\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T22:31:35.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "D:\\MyApp\\WebApp\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-13T22:31:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyEntitiesService.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\MyEntitiesService\\MyEntitiesService.cs",
+              "RelativeDocumentMoniker": "MyEntitiesService\\MyEntitiesService.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\MyEntitiesService\\MyEntitiesService.cs",
+              "RelativeToolTip": "MyEntitiesService\\MyEntitiesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:29:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:29:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:14:56.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\AdminService\\AdminService.cs",
+              "RelativeDocumentMoniker": "AdminService\\AdminService.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\AdminService\\AdminService.cs",
+              "RelativeToolTip": "AdminService\\AdminService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:27:47.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminService",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\AdminService\\AdminService.csproj",
+              "RelativeDocumentMoniker": "AdminService\\AdminService.csproj",
+              "ToolTip": "D:\\MyApp\\WebApp\\AdminService\\AdminService.csproj",
+              "RelativeToolTip": "AdminService\\AdminService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T22:27:42.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyEntity.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\Domain\\Entities\\MyEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\MyEntity.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\Domain\\Entities\\MyEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\MyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:21:50.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\DAL\\Configurations\\MyEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\MyEntityConfiguration.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\DAL\\Configurations\\MyEntityConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\MyEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:17:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250113221426_GG.cs",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\DAL\\Migrations\\20250113221426_GG.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250113221426_GG.cs",
+              "ToolTip": "D:\\MyApp\\WebApp\\DAL\\Migrations\\20250113221426_GG.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250113221426_GG.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:15:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAL",
+              "DocumentMoniker": "D:\\MyApp\\WebApp\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\MyApp\\WebApp\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T22:14:05.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
